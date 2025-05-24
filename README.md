@@ -52,7 +52,7 @@ The code is provided in a Jupyter Notebook (`WDNs_Dataset.ipynb`) that includes:
 
 ### Results
 -  Results of diameter predictions for Kadu, Xg-LGB, and ANN-WOA methods in the Hanoi WDN :
-- ![image](https://github.com/user-attachments/assets/8b1ae953-8aa2-4500-a6ec-5f5550db4b89)
+![image](https://github.com/user-attachments/assets/fdfa4f3f-c6d3-4b4d-b09d-ec77de83a561)
 
 
 ## Dependencies
