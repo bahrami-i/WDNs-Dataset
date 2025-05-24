@@ -42,7 +42,7 @@ The code is provided in a Jupyter Notebook (`WDNs_Dataset.ipynb`) that includes:
 - **Preprocessing**: Loading datasets, feature selection, outlier removal, and min-max scaling.
 - **Training**: WOA-ANN model to predict pipe diameters, with hyperparameter tuning (neurons, alpha, learning rate).
 - **Evaluation**: Performance metrics (R², MAE, MSE, RMSE) on the Hanoi WDN.
-- **Output**: Predictions saved as `ANN_Pred_withoutoversamp.csv`.
+- **Output**: Predictions saved as `ANN_Pred.csv`.
 
 ### Files
 - `total_networks.csv`: Synthetic WDN dataset (85,745 samples).
